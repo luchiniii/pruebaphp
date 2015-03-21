@@ -1,0 +1,7 @@
+.contenedor_usuarios{
+	margin: 2rem 0;
+}
+.contenedor_usuarios strong{
+	width: 170px;
+	display: inline-block;
+}
